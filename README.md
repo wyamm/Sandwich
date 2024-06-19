@@ -1,3 +1,8 @@
+# THIS IS ONLY A FRONT END LOCAL SERVER WITH A JS MOCK BACKEND
+to run
+- `npm run dev` in one terminal
+- `npm run server` in another terminal
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
